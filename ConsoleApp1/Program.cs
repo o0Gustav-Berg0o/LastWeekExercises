@@ -6,7 +6,7 @@ using System.Collections.Generic;
 
 class Program
 {
-    private const string API_KEY = "N8UYo8+CnVlKbWijUc8bQA==GL5SWOidHAYTOEvR";
+    private const string API_KEY = "";
     private const string BASE_URL = "https://api.api-ninjas.com/v1/quotes";
 
     static async Task Main(string[] args)
