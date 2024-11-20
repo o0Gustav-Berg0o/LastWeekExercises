@@ -69,9 +69,7 @@ class Program
 
 class Quote
 {
-    public string quote { get; set; }
-    public string author { get; set; }
-    public string category { get; set; }
+   //TODO Create properties to match object
 }
 
 

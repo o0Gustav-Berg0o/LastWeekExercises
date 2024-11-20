@@ -75,29 +75,3 @@ class Program
     }
 }
 
-/* HINTS:
- * Exercise 1 - Create the Quote class like this:
- * class Quote
- * {
- *     public string Text { get; set; }
- *     public string Author { get; set; }
- *     public string Tags { get; set; }
- * }
- *
- * Exercise 2 - Create list:
- * List<Quote> quotes = new List<Quote>();
- *
- * Exercise 3 - Create and add Quote:
- * quotes.Add(new Quote 
- * { 
- *     Text = text,
- *     Author = author,
- *     Tags = tags
- * });
- *
- * Exercise 4 - Display like this:
- * Console.WriteLine($"Text: {quote.Text}");
- * Console.WriteLine($"Author: {quote.Author}");
- * Console.WriteLine($"Tags: {quote.Tags}");
- * Console.WriteLine("-------------");
- */

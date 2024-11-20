@@ -28,7 +28,7 @@ class Program
                 {
                     Console.WriteLine($"\nFound {bookNodes.Count} books:\n");
 
-                    // TODO 1: Create Book class with properties:
+                    // TODO  Create Book class with properties:
                     // - Title (string)
                     // - Price (decimal)
                     // - Rating (int or enum)
@@ -36,7 +36,7 @@ class Program
                     // - ImageUrl (string)
 
 
-                    // TODO 2: Create a List<Book> to store the books
+                    // TODO  Create a List<Book> to store the books
 
 
                     // Inside the foreach loop:
@@ -104,7 +104,7 @@ class Program
         public string Availability { get; set; }
         public string ImageUrl { get; set; }
 
-        // Optional: Override ToString for easy display
+        // TODO Optional: Override ToString for easy display
         public override string ToString()
         {
             return $"{Title}\n" +

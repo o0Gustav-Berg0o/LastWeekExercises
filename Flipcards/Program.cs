@@ -45,7 +45,7 @@ class Program
 // - Color coding for correct/incorrect answers
 // - Clear screen and format text
 
-/* Keyboard Controls to Implement:
+/* Possible Keyboard Controls to Implement:
  * ============================
  * A: Add new flashcard
  * P: Play game
